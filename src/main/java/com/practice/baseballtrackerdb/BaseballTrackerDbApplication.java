@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BaseballTrackerDbApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BaseballTrackerDbApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(BaseballTrackerDbApplication.class, args);
+    }
 
 }
